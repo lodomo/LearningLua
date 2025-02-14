@@ -115,7 +115,7 @@ math.tointeger(x)
 ## Precedence
 
 1. ^                        :   exponentiation
-2. -, #, ~, not             :   unary operators
+2. -, #, ~, not             :   unary operators (negation, length, bitwise NOT, logical NOT)
 3. *, /, //, %              :   multiplication, division, floor division, modulo
 4. +, -                     :   addition, subtraction
 5. ..                       :   string concatenation
